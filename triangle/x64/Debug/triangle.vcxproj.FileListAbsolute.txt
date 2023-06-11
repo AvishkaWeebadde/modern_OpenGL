@@ -1,0 +1,1 @@
+F:\modern_OpenGL\triangle\x64\Debug\triangle.exe
