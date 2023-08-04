@@ -1,0 +1,4 @@
+﻿  glad.c
+  O_Paint.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  O_Paint.vcxproj -> F:\modern_OpenGL\O_Paint\x64\Debug\O_Paint.exe
